@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Dec 20 22:39:21 CET 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-0160-75dd-d7a7-0000081289d0 
+on database directory memory:/home/akruk/Projekty/sokp/testdb with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/home/akruk/.m2/repository/org/apache/derby/derby/10.13.1.1/derby-10.13.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_144-b01
+user.dir=/home/akruk/Projekty/sokp
+os.name=Linux
+os.arch=amd64
+os.version=4.10.0-42-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
