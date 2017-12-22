@@ -9,13 +9,10 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 @NoArgsConstructor
 @JsonAutoDetect(fieldVisibility = JsonAutoDetect.Visibility.ANY)
-public class StudentDTO {
+public class CourseDTO {
 
     private Long id;
-    private String studentId;
-    private String firstName;
-    private String lastName;
-    private String email;
-    private String sex;
+    private String name;
+    private String type;
 
 }
